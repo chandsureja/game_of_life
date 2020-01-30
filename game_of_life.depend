@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579965914 source:f:\sem 1\game_of_life\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+
